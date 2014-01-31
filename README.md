@@ -1,8 +1,8 @@
-Parallel_C_Sharp
-================
+Parallel programming in C#
+==========================
 
 Simple Math Calc
 
-sequential: 550, 599, 547 (miliseconds)
+Sequential: <b>550</b>, <b>599</b>, <b>547</b> (miliseconds)
 
-parallel: 466, 353, 340 (miliseconds)
+Parallel: <b>466</b>, <b>353</b>, <b>340</b> (miliseconds)
